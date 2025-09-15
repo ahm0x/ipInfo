@@ -1,6 +1,6 @@
 # **Usage ipInfo** 
 
-> *{Creado por Mango / Created by Mango}*
+> *{Creado por ahm / Created by ahm}*
 
 **Obtener API** 
 
